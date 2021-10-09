@@ -16,7 +16,7 @@ export default function Home() {
       <div className={styles.wrapper}>
         <a className={styles.wa} href="https://wa.me/6285156777699?text=Saya%20tertarik%20dengan%20bouquet%20yang%20anda%20jual">WhatsApp</a>
         <a className={styles.shopee} href="https://shopee.co.id/zubel_florist">Shopee</a>
-        <a className={styles.line} href="https://lin.ee/ORKv6pE">Line</a>
+        <a className={styles.line} href="https://liff.line.me/1645278921-kWRPP32q/?accountId=289fqrvq">LINE</a>
       </div>
     </div>
   )
