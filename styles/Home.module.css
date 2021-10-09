@@ -33,3 +33,9 @@
   background: linear-gradient(-180deg,#f53d2d,#f63);
 }
 
+.line {
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  background-color: #00B900;
+}
+
