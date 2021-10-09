@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Zubel Florist</title>
         <meta name="description" content="Bouquet murah cileungsi" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo.jpeg" />
       </Head>
 
       <Image src="/logo.jpeg" alt="Zubel Logo" width={270} height={258} />
